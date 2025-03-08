@@ -1,4 +1,4 @@
-import OrdersList from "@/components/pages/OrdersList";
+import OrdersList from "@/components/pages/orders/OrdersList";
 import Head from "next/head";
 import Image from "next/image";
 
